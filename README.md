@@ -1,7 +1,7 @@
 # Twinning
 ___________________________________  
 此内容非原仓库信息！  
-仅限备份，个人最后保存的编译成品文件访问：https://github.com/apples1949/Twinning/blob/master/67_43_115_53_42.windows.x86_64.bundle.zip 
+仅限备份，个人最后保存的编译成品文件访问：https://github.com/apples1949/Twinning/blob/master/67_43_115_53_42.windows.x86_64.bundle.zip  
 未来等原作者发布最新编译或者有时间我再手动编译  
 ___________________________________  
 个人工具箱。
