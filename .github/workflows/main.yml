@@ -1,8 +1,8 @@
 name: Sync Releases from External Repository
 
 on:
-  workflow_dispatch:       # 允许手动触发
-
+  schedule:
+    - cron: '0 16 * * 0'
 jobs:
   sync-release:
     runs-on: ubuntu-latest
